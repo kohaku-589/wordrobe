@@ -1992,7 +1992,7 @@ img, a img {
 	padding: 30px 40px 30px 20px;
 }
 .categoryTitle01 {
-	font-size: 28px;
+	font-size: 24px !important;
 	line-height: 1.2em;
 	text-align: left;
 	font-weight: 700;
